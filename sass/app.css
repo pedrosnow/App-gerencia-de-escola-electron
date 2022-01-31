@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f8f8f8;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 40px;
+  padding: 10px;
+}
+
+.btn {
+  border: 1px solid #000;
+  padding: 7px 16px;
+  border-radius: 100px;
+  background: #00c3ff;
+  color: #fff;
+}
+/*# sourceMappingURL=app.css.map */
